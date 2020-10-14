@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "vis-data": "^6.6.1",
+    "vis-network": "^8.3.2",
     "vue": "^2.6.11"
   },
   "devDependencies": {
